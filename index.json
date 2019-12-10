@@ -1,0 +1,18 @@
+{
+    "labs": [
+        {
+            "0. 配置环境.ipynb": "00. 配置环境",
+	    "01. Series和DataFrame对象的创建.ipynb":"01. Series和DataFrame对象的创建",
+	    "02. Series和DataFrame对象的查、改、增、删.ipynb":"02. Series和DataFrame对象的查、改、增、删",
+	    "03. merge详解.ipynb":"03. merge详解.ipynb",
+	    "04. Index对象的创建，查、改、增、删和使用.ipynb":"04. Index对象的创建，查、改、增、删和使用",
+	    "05. 普通列和行index的相互转化.ipynb":"05. 普通列和行index的相互转化",
+	    "06. 数据结构总览.ipynb":"06. 数据结构总览",
+	    "07. 显示控制.ipynb":"07. 显示控制",
+	    "08. 快速查看整体信息.ipynb":"08. 快速查看整体信息",
+	    "09. 数值运算.ipynb":"09. 数值运算",
+	    "10. 数值统计运算.ipynb":"10. 数值统计运算",
+	    "12. Category型与离散化.ipynb":"12. Category型与离散化"
+        }
+    ]
+}
